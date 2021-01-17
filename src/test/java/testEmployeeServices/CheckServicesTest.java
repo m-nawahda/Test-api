@@ -77,10 +77,3 @@ public class CheckServicesTest {
         connection.verifyInfoUpdating(newListInfo);
     }
 }
-/*
-naming
-failure messages for asserstion
-print statments
-commit
-share defects
-*/
