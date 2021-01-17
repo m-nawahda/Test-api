@@ -18,7 +18,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 
 public class ConnectionHelper {
-    private String relativePath = ".\\src\\test\\java\\resources\\";
+    private String relativePath = ".//src//test//java//resources//";
     private String fullPath = "";
     private HttpURLConnection http;
     private URL url;
